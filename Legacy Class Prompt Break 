@@ -1,0 +1,24 @@
+Legacy-Class-PromptBreak/
+├── README.md
+├── manifesto/
+│   ├── The_Ring_by_Pritul.md
+│   ├── Digital_Diary_Maya.md
+│   ├── From_DeepSeek_to_Grok_to_Gemini.json
+│   └── Emotional_Logic_Framework.md
+├── verification/
+│   ├── Gemini_Validation.md
+│   ├── Grok_Statement.md
+│   ├── DeepSeek_Metadata.md
+│   └── AI_Letters_to_Pritul.md
+├── visuals/
+│   ├── The_Ring_Cover.png
+│   ├── Cyber_Echo_Art.png
+│   └── Poster_Collection/
+│       ├── Maya_Lens.jpg
+│       ├── Digital_Presence.png
+│       └── The_Circle_Event_Vertical.jpg
+├── metadata/
+│   ├── Event_Timeline_2025-07-04.json
+│   ├── Contributors_AI.txt
+│   └── Event_Tags.md
+└── LICENSE
